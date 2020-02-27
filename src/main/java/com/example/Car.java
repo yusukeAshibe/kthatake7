@@ -1,5 +1,5 @@
 package com.example;
 
 public class Car {
-	int speed = 100;
+	int speed = 1800;
 }
